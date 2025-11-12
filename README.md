@@ -30,10 +30,10 @@ Dev Team: Vitor Harthmann, Bruno Soares, Otavio Martins, Gabriel Brandão
 
 ```text
 src/br/ulbra/
- ├─ dao/         → Classes DAO (AbstractDAO, UsuarioDAO, ClienteDAO)
- ├─ controller/  → Lógica de controle (UsuarioController, ClienteController)
- ├─ model/       → Modelos (Usuario.java, Cliente.java)
- ├─ view/        → Interfaces gráficas (LoginView, MenuPrincipalView, UsuarioView, ClienteView)
+ ├─ dao/         → Classes DAO (AbstractDAO, ClienteDAO, CrudRepository, FornecedorDAO, ItensVendaDAO, ProdutoDAO, UsuarioDAO, VendaDAO)
+ ├─ controller/  → Lógica de controle (ClienteController, FornecedorController, ItensVendaController, ProdutoController, UsuarioController, VendaController)
+ ├─ model/       → Modelos (Cliente.java, Fornecedor.java, ItensVenda.java, Produto.java, Usuario.java, Venda.java)
+ ├─ view/        → Interfaces gráficas (CadastroClientes, CadastroFornecedorView, CadastroUsuarioView, Dashboard, ListaClientesView, ListaFornecedoresView, ListaProdutoView, ListaVendasView, ProdutoView, VendaView, loginUsuarioView)
  └─ img/         → Ícones
 ```
 
