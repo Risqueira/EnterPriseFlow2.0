@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/controller/UsuarioController.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/loginUsuarioView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/ListaFornecedoresView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/VendaView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/model/Usuario.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/ListaClientesView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/model/Cliente.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/CadastroUsuarioView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/ProdutoView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/CadastroClientes.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/CadastroFornecedorView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/ListaProdutoView.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/DAO/AbstractDAO.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/Dashboard.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/DAO/CrudRepository.java</file>
+            <file>file:/C:/Users/henri/Music/EnterpriseFlowUltimateFinal2.0-main/EnterpriseFlowUltimateFinal2.0-main/src/br/ulbra/view/ListaVendasView.java</file>
+        </group>
+    </open-files>
+</project-private>
